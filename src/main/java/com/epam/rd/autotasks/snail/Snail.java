@@ -27,6 +27,7 @@ public class Snail
                 traveledPass -= b;
             }
             System.out.println(countDays);
+            scanner.close();
         }
     }
 }
